@@ -54,5 +54,5 @@ mvn package    # build the jar
 
 ## Documents
 
-- [`docs/backup_system_uml.pdf`](docs/uml-diagram.png) — class diagram
+- [`docs/backup_system_uml.pdf`](docs/backup_system_uml.pdf) — class diagram
 - [`docs/design-rationale.md`](docs/design-rationale.md) — design rationale (problem, why Bridge/Adapter alone wouldn't suffice, incompatibility justification, limitation)
