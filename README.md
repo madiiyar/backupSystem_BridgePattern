@@ -52,7 +52,4 @@ mvn package    # build the jar
 - `TapeStorageAdapterTest` — failure-code translation + upload/exists round-trip (real `TapeArchiveDriver`)
 - `StorageTargetResolverTest` — scheme-based dynamic dispatch
 
-## Documents
-
-- [`docs/uml-diagram.png`](docs/uml-diagram.png) — class diagram
-- [`docs/design-rationale.md`](docs/design-rationale.md) — design rationale (problem, why Bridge/Adapter alone wouldn't suffice, incompatibility justification, limitation)
+ale.md`](docs/design-rationale.md) — design rationale (problem, why Bridge/Adapter alone wouldn't suffice, incompatibility justification, limitation)
